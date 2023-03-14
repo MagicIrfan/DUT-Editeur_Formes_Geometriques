@@ -16,6 +16,4 @@ Avec l'OS Unix, la commande que vous devrez faire dans votre terminal est la sui
 
 * C++
 * Bibliothèque EZDraw++
-		 
-Merci d'avoir lu !
 
